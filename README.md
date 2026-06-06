@@ -160,5 +160,3 @@ streamlit run app.py
 ## License
 
 Dataset: **CC BY 4.0** (see `drones and birds/README.roboflow.txt`).
-# Aerial-Object-Classification-Bird-vs-Drone-
- 
